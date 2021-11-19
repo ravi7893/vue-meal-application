@@ -1,8 +1,15 @@
-# vue-movie-db-yt
+# vue-meal
 
 ## Project setup
+
+# create a Vue Project 
+npm create Vue-meal-app
+ 
+This command will create Vue project
+
+To call   HTTP requests from  Api axios package is required so to install Axios  run  npm install axios  command
 ```
-npm install
+
 ```
 
 ### Compiles and hot-reloads for development
